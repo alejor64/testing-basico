@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en el componente <AboutScreen /> Debe rendizar el componente 1`] = `
+<div>
+  <h1>
+    About Screen
+  </h1>
+  <hr />
+  <pre>
+    {
+   "name": "Alejandro",
+   "email": "alejoruizs@hotmail.com"
+}
+  </pre>
+  <button
+    className="btn btn-warning"
+    onClick={[Function]}
+  >
+    LongOut
+  </button>
+</div>
+`;
